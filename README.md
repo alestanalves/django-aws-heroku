@@ -10,7 +10,7 @@ Como publicar uma aplicação Django no Heroku
 
 3- Criar o arquivo Procfile com o seguinte conteúdo:
 
-web: gunicorn pastaprincipaldaaplicacao.wsgi --log-file -
+`web: gunicorn pastaprincipaldaaplicacao.wsgi --log-file -`
 
 4- Configurar o ALLOWED_HOSTS (localhost e URL de publicação)
 
