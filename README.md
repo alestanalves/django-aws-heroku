@@ -55,3 +55,4 @@ django_heroku.settings(locals())
 ## Tutorial de exemplo
 
 https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true
+https://www.heroku.com/
