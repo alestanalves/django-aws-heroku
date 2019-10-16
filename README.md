@@ -56,3 +56,5 @@ django_heroku.settings(locals())
 
 https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true
 https://www.heroku.com/
+
+- [ ] Estudar AWS
